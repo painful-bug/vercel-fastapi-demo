@@ -1,0 +1,8 @@
+on: push 
+jobs:
+  test:
+    name: TDS-W2-GHActions
+    runs-on: ubuntu-latest
+    steps:
+      - name: 23f2005325@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
